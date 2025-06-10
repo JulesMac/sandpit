@@ -1,6 +1,6 @@
 # Sandpit
 
-This repository is a simple sandbox for practicing git workflows and other development experiments.
+This repository is a simple sandbox for practicing git workflows and other development experiments. 😊
 
 ## Contents
 
